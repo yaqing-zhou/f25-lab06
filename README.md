@@ -1,4 +1,4 @@
-# 17214-25spring-lab06: Testing Infrastructure in Java
+# 17214-f25-lab06: Testing Infrastructure in Java
 
 This repository is set up for testing with _JUnit_ and test coverage with _Jacoco_, both automated through _Maven_.
 
