@@ -1,4 +1,4 @@
-package edu.cmu.cs.cs214.rec06;
+package edu.cmu.cs.cs214.rec02;
 
 /**
  * Interface describing a first-in, first-out structure for integers. Values are

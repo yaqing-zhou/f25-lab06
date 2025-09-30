@@ -1,4 +1,4 @@
-package edu.cmu.cs.cs214.rec06;
+package edu.cmu.cs.cs214.rec02;
 
 import org.junit.Before;
 import org.junit.Test;
